@@ -1,5 +1,7 @@
 # Socket-Programming
 
+Socket-Programming — simple TCP/UDP socket examples and exercises for learning.
+
 Collection of simple socket programming examples used for learning and demonstrations. Each `problem xx` folder contains a short project with server and client code (TCP/UDP) for specific exercises.
 
 Structure
